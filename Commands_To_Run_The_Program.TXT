@@ -1,0 +1,3 @@
+gcc -g -Wall -fopenmp -o LargeMatrixMultiplication LargeMatrixMultiplication.c -lm
+
+./LargeMatrixMultiplication
